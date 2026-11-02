@@ -1,0 +1,2 @@
+{ "name": "magna-atelier", "owner": { "name": "Magna Atelier" },
+  "plugins": [ { "name": "magna-przyciski", "source": "./plugins/magna-przyciski", "description": "Przyciski nad czatem: plan dzienny, lista do pakowania, zdjęcia (sklejone/spakowane), rysunki, plan trasy." } ] }
